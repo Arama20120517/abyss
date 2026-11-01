@@ -1,5 +1,5 @@
 {
-    "version": "0.14.9",
+    "version": "0.15.0",
     "description": "又一款跨平台的图形化进程/系统监控工具 | Yet another cross-platform graphical process/system monitor",
     "homepage": "https://bottom.pages.dev",
     "license": {
@@ -7,8 +7,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ClementTsang/bottom/releases/download/0.14.9/bottom_x86_64-pc-windows-msvc.zip",
-            "hash": "01660721b0fdc72b191f2b27b78dc9a3087aeb7b3fad4a890c53870089d6b500"
+            "url": "https://github.com/ClementTsang/bottom/releases/download/0.15.0/bottom_x86_64-pc-windows-msvc.zip",
+            "hash": "aeff72e355116516d2583f34348e31f60c5899e394a08eeda79a2bdb361e27bd"
         }
     },
     "extract_to": "app",
