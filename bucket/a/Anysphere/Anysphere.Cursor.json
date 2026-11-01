@@ -1,5 +1,5 @@
 {
-    "version": "3.26.16",
+    "version": "3.27.12",
     "description": "一个 AI 代码编辑器 | The AI Code Editor",
     "homepage": "https://www.cursor.com",
     "license": {
@@ -7,12 +7,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://downloads.cursor.com/production/8fcb8ace5c73fa31f2e2707fd6783160e4ed3e49/win32/x64/user-setup/CursorUserSetup-x64-3.26.16.exe",
-            "hash": "12d19bcb15f56067c41ebc8a148e4b40fe96756fdfa1c2191606aa9e2181a1e9"
+            "url": "https://downloads.cursor.com/production/df132ffba90dfc15a12e6b8f020ba4e5d026c4be/win32/x64/user-setup/CursorUserSetup-x64-3.27.12.exe",
+            "hash": "bad3c9ef70e6b6330cca960c33741efd3ea50a2c265ebba4f6203fb3806c1e16"
         },
         "arm64": {
-            "url": "https://downloads.cursor.com/production/8fcb8ace5c73fa31f2e2707fd6783160e4ed3e49/win32/arm64/user-setup/CursorUserSetup-arm64-3.26.16.exe",
-            "hash": "abcbf2eefd08bc40515aef7ff90d398c91561dc075e21b57faef4261bb954d4e"
+            "url": "https://downloads.cursor.com/production/df132ffba90dfc15a12e6b8f020ba4e5d026c4be/win32/arm64/user-setup/CursorUserSetup-arm64-3.27.12.exe",
+            "hash": "8bb1065f46c8869c96b347ac8c2b2cf3c934b814384bc1de30069215d8024df0"
         }
     },
     "bin": "app\\Cursor.exe",
