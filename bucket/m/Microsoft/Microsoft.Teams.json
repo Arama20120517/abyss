@@ -1,5 +1,5 @@
 {
-    "version": "26225.1806.5074.1452",
+    "version": "26276.513.5241.9675",
     "description": "使用更快、更简单、更智能和更灵活的 Teams，更有效地进行协作 | Collaborate more effectively with a faster, simpler, smarter, and more flexible Teams",
     "homepage": "https://github.com/microsoft/winget-pkgs/tree/master/manifests/m/Microsoft/Teams",
     "license": {
@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://teamsinstaller.public.onecdn.static.microsoft/production-windows-x64/26225.1806.5074.1452/MSTeams-x64.msix?p",
-            "hash": "6470be915aba85ae6d1ceeb547ec8d08183ff0aa70defd04e30a2e58206c3ada"
+            "url": "https://teamsinstaller.public.onecdn.static.microsoft/production-windows-x64/26276.513.5241.9675/MSTeams-x64.msix?p",
+            "hash": "e41b24bf7e2944b268bde7c7f6e8970700578b07cbeaf5da302db14e1a999e94"
         },
         "arm64": {
-            "url": "https://teamsinstaller.public.onecdn.static.microsoft/production-windows-arm64/26225.1806.5074.1452/MSTeams-arm64.msix?p",
-            "hash": "adb9b50ef9b395a8daf8e730d180871563c51aadbb0a57382b2c6a96a725998e"
+            "url": "https://teamsinstaller.public.onecdn.static.microsoft/production-windows-arm64/26276.513.5241.9675/MSTeams-arm64.msix?p",
+            "hash": "00860601d97119549531aa92ba49156c41e5fac3019526367f9eeb7d004e3b0f"
         }
     },
     "msix": "MSTeams_8wekyb3d8bbwe",
