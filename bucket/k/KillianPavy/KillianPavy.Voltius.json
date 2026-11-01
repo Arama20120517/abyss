@@ -1,5 +1,5 @@
 {
-    "version": "0.65.0",
+    "version": "0.66.0",
     "description": "一款极速、现代化、优先本地运行的 SSH/SFTP/串口客户端 | A lightning-fast, modern, local-first SSH/SFTP/Serial client",
     "homepage": "https://voltius.app",
     "license": {
@@ -7,12 +7,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/VoltiusApp/voltius/releases/download/v0.65.0/Voltius_0.65.0_x64-setup.exe",
-            "hash": "d948f75bb120f8178e0f1a6b4977632c933bae3ac92101d6d602fb7b81b29ff3"
+            "url": "https://github.com/VoltiusApp/voltius/releases/download/v0.66.0/Voltius_0.66.0_x64-setup.exe",
+            "hash": "81ba2723857ab5548907ef8e7dfbaf6cb3402d286b0386b49375e1b498c01020"
         },
         "arm64": {
-            "url": "https://github.com/VoltiusApp/voltius/releases/download/v0.65.0/Voltius_0.65.0_arm64-setup.exe",
-            "hash": "f14813dca967afe9f3b31b61d0131e1e848bbca1d4736e5f0cbe1e3a68c17816"
+            "url": "https://github.com/VoltiusApp/voltius/releases/download/v0.66.0/Voltius_0.66.0_arm64-setup.exe",
+            "hash": "6423ccabe427e226e390fcf920433353dbf131def87d955708a3bae68a32b4f0"
         }
     },
     "shortcuts": [
