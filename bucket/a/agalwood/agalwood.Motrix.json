@@ -1,5 +1,5 @@
 {
-    "version": "2.1.1",
+    "version": "2.2.0",
     "description": "一个全功能的下载器 | A full-featured download manager",
     "homepage": "https://motrix.app",
     "license": {
@@ -7,8 +7,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/agalwood/Motrix/releases/download/v2.1.1/Motrix-2.1.1-win.zip",
-            "hash": "56147b8d12e64858c8d22ba65c4181a43e08c5eb661d533f5dc20a8768e2201f"
+            "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.0/Motrix-2.2.0-win.zip",
+            "hash": "62e419d498646ba913cb71aa97a7a40f5bd84a01f706ebc1537a59882a5d1ddb"
         }
     },
     "extract_to": "app",
