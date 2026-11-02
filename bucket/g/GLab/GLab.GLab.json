@@ -1,5 +1,5 @@
 {
-    "version": "1.126.0",
+    "version": "1.127.0",
     "description": "一款开源的 GitLab 命令行工具，将 GitLab 的酷炫功能带到你的命令行中 | An open-source GitLab command line tool bringing GitLabs cool features to your command line",
     "homepage": "https://gitlab.com/gitlab-org/cli",
     "license": {
@@ -7,8 +7,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gitlab.com/gitlab-org/cli/-/releases/v1.126.0/downloads/glab_1.126.0_Windows_x86_64_installer.exe",
-            "hash": "675884a41826b10ca730fbe7446edcae6d38ad4ee635d8ee92d801483928e9f9"
+            "url": "https://gitlab.com/gitlab-org/cli/-/releases/v1.127.0/downloads/glab_1.127.0_Windows_x86_64_installer.exe",
+            "hash": "464254ab707bd7b7f78adcca4a9962bbc76bb6f81c381d168fd7f617aa7fce51"
         }
     },
     "env_add_path": "app",
