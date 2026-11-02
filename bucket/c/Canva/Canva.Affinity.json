@@ -1,5 +1,5 @@
 {
-    "version": "3.3.1.4940",
+    "version": "3.3.3.5004",
     "description": "屡获殊荣的集成平面设计、照片编辑和出版解决方案 | Award-winning integrated graphic design, photo-editing and publishing solution",
     "homepage": "https://www.affinity.studio",
     "license": {
@@ -7,12 +7,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://affinity-update.serif.com/windows/3/studio/retail/Affinity-Affinity-Store-x64-4940-ce057d0adfd09febd5029b87f93128d8f0b3b603.msix",
-            "hash": "c598f40af2ec06a1ad7f4280fae1d68a5f2c16d10c7c649e48059370a158f98d"
+            "url": "https://affinity-update.serif.com/windows/3/studio/retail/Affinity-Affinity-Store-x64-5004-20596bdfdd242bf0f3a45a6fd4ce4f845132454e.msix",
+            "hash": "012910a060a4fae20ed815c0589bb22aa49d7c8078ce5a2d8c48a7b19dfcef95"
         },
         "arm64": {
-            "url": "https://affinity-update.serif.com/windows/3/studio/retail/Affinity-Affinity-Store-arm64-4940-ce057d0adfd09febd5029b87f93128d8f0b3b603.msix",
-            "hash": "bdc30ef7a78866a5daeca1fe71f181db8a9de89ac4cf3b285e7d9595b2e318d9"
+            "url": "https://affinity-update.serif.com/windows/3/studio/retail/Affinity-Affinity-Store-arm64-5004-20596bdfdd242bf0f3a45a6fd4ce4f845132454e.msix",
+            "hash": "2bfa7fafd4c10af73effdb4f4a7c6ade261d6292aa3539488dc70874fd5dbefb"
         }
     },
     "msix": "Canva.Affinity_8a0j1tnjnt4a4",
