@@ -1,5 +1,5 @@
 {
-    "version": "3.4",
+    "version": "3.5",
     "description": "跨平台、轻量易用的开源 C/C++ 集成开发环境 | A powerful, lighweight and cross-platform C/C++ IDE",
     "homepage": "https://github.com/royqh1979/RedPanda-CPP",
     "license": {
@@ -9,8 +9,8 @@
     "notes": "Due to Scoop's naming limit, 'RoyQu.RedPanda-C++' is named 'RoyQu.RedPanda-Cpp'.",
     "architecture": {
         "64bit": {
-            "url": "https://sourceforge.net/projects/redpanda-cpp/files/v3.4/RedPanda.C++.3.4.win64.MinGW64_11.5.0.Setup.exe/download#/dl.exe",
-            "hash": "f2fc1b37b252d0cb417a9c8cef3813d8e032d3d875ce50913063dd7aa6b0f21f"
+            "url": "https://github.com/royqh1979/RedPanda-CPP/releases/download/v3.5/RedPanda.C++.3.5.0.win64.MinGW64_15.3.0.Setup.exe#/dl.exe",
+            "hash": "a8d0cd5e0eca81f156b2b88e7e11525b9881de42962cc3848ece7728e88db223"
         }
     },
     "location": "$env:ProgramFiles\\RedPanda-Cpp",
