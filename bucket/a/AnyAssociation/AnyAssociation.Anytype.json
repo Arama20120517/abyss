@@ -1,5 +1,5 @@
 {
-    "version": "0.57.5-beta",
+    "version": "0.57.7",
     "description": "本地优先、端到端加密的软件，用于创建和存储任务、笔记、想法、文档、工作流等 | Local-first, E2E encrypted software for creating and storing tasks, notes, ideas, documents, workflows, and more",
     "homepage": "https://anytype.io",
     "license": {
@@ -7,8 +7,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/anyproto/anytype-ts/releases/download/v0.57.5-beta/Anytype.Setup.0.57.5-beta.exe",
-            "hash": "0e04ab3e2daa516c48a9596136e76ae73ac1247e53d101e3ee8ee87020804d35"
+            "url": "https://github.com/anyproto/anytype-ts/releases/download/v0.57.7/Anytype.Setup.0.57.7.exe",
+            "hash": "eb77ad0e98fc46f50d5d121c6e49b5ab0f65da10134e93e973f89dbd7e972d6c"
         }
     },
     "shortcuts": [
