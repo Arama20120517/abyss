@@ -1,5 +1,5 @@
 {
-    "version": "4.3.1",
+    "version": "4.3.2",
     "description": "「类脑式」知识管理笔记与写作 | \"Brain-like\" Knowledge Management Notes",
     "homepage": "https://lattics.zineapi.com",
     "license": {
@@ -7,8 +7,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://releases.zine.la/lattics/win/Lattics_win_installer_x64_4.3.1.exe",
-            "hash": "f0a745728bf239e34081fd09cee6f10958193620ab4fb8ececea6cf0439e07b2"
+            "url": "https://releases.zine.la/lattics/win/Lattics_win_installer_x64_4.3.2.exe",
+            "hash": "65e22229285a87f562e7516204b1af799b45deec9d605677ef2915f43eb69e41"
         }
     },
     "shortcuts": [
