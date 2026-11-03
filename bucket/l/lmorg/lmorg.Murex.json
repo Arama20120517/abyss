@@ -1,5 +1,5 @@
 {
-    "version": "7.3.1232",
+    "version": "7.4.1116",
     "description": "一个更智能、更直观且更易读的 Shell | A smarter, more intuitive, and readable shell",
     "homepage": "https://murex.rocks",
     "license": {
@@ -8,10 +8,10 @@
     "architecture": {
         "64bit": {
             "url": "https://nojs.murex.rocks/bin/latest/murex-windows-amd64.exe.zip",
-            "hash": "047ff491edc5344f4040cf6ce2ed39d8ed45d8d7d8311be09a591ed8137f827a",
+            "hash": "1f90c5d04f11edc97496bd8bbc7f99ab2b04d6f29079e2295a15a9130f887126",
             "bin": [
                 [
-                    "app\\bin\\murex-7.3-windows-amd64.exe",
+                    "app\\bin\\murex-7.4-windows-amd64.exe",
                     "murex"
                 ]
             ]
