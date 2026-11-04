@@ -1,5 +1,5 @@
 {
-    "version": "158.0.4357.0",
+    "version": "159.0.4378.0",
     "description": "(Dev 版本) 微软 Edge 浏览器 - 一款由微软创建和开发的跨平台网络浏览器 | (Dev version) Microsoft Edge - A cross-platform web browser created and developed by Microsoft",
     "homepage": "https://www.microsoft.com/edge",
     "license": {
@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://download.microsoft.com/download/3926157e-ce34-49ca-80a4-5adeff12ab8e/MicrosoftEdgeDevEnterpriseX64.msi#/dl.msi_",
-            "hash": "b28eccfe03c393de21f0815d8c39ab8a3fa4411aa71217329f72c85c0cf576c5"
+            "url": "https://download.microsoft.com/download/56839e65-d038-42f0-9329-5b952898db35/MicrosoftEdgeDevEnterpriseX64.msi#/dl.msi_",
+            "hash": "e9973b65ae87a260af1a70dd846fcad82b1c8f68b7d67b155cd98c402f462bd3"
         },
         "arm64": {
-            "url": "https://download.microsoft.com/download/3926157e-ce34-49ca-80a4-5adeff12ab8e/MicrosoftEdgeDevEnterpriseARM64.msi#/dl.msi_",
-            "hash": "0080972504007fcf72a2062dcaa3132d4e085dfbcf3eae103d1bca743d863c74"
+            "url": "https://download.microsoft.com/download/56839e65-d038-42f0-9329-5b952898db35/MicrosoftEdgeDevEnterpriseARM64.msi#/dl.msi_",
+            "hash": "46b6ad53fdfce3d54e5f40b2dd073018cc7f01d8253a46e40a086a4b40fa53d2"
         }
     },
     "location": "${env:ProgramFiles(x86)}\\Microsoft\\Edge Dev",
